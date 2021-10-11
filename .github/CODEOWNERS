@@ -1,7 +1,7 @@
 # When someone with admin or owner permissions has enabled required reviews,
 # they also can optionally require approval from a code owner before the author 
 # can merge a pull request in the repository. The Network Operations group most like owns
-# this repository, with the Development group able to author and push pull requests.
+# this repository, with the Development group NetOps able to author and push pull requests.
 
 # In a true org structure, this line would be something like: "app-fqdn-rules.tf @<secops>"
 app-fqdn-rules.tf @<secops>
