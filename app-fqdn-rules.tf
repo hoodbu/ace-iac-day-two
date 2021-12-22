@@ -4,6 +4,7 @@ locals {
     tcp = {
       "*.aviatrix.com" = "443"
       "aviatrix.com"   = "80"
+      "*.bbc.co.uk"    = "80"
     }
     udp = {
       "dns.google.com" = "53"
