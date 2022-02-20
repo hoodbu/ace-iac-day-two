@@ -7,7 +7,7 @@
 app-fqdn-rules.tf @avsprakash1
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @<netops>
+main.tf @crado11
 provider.tf @crado11
 variables.tf @crado11
 versions.tf @crado11
