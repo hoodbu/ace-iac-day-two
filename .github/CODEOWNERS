@@ -7,7 +7,7 @@
 app-fqdn-rules.tf @nikhilsec1
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @netops
+main.tf @nikhil3004
 provider.tf @nikhil3004
 variables.tf @nikhil3004
 versions.tf @nikhil3004
