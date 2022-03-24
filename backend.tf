@@ -3,7 +3,7 @@ terraform {
   backend "remote" {
      organization = "anas-netops"
     workspaces {
-      name = "ace-iac-day-two"
+      name = "ace-iac-daytwo"
     }
   }
 }
