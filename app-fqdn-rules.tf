@@ -2,11 +2,11 @@
 locals {
   egress_rules = {
     tcp = {
-      "*.aviatrix.com" = "443"
-      "aviatrix.com" = "80"
+      "*.aviatrix.com"    = "443"
+      "aviatrix.com"      = "80"
     }
     udp = {
-      "dns.google.com" = "53"
+      "dns.google.com"    = "53"
     }
   }
 }
