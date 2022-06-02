@@ -7,7 +7,7 @@
 app-fqdn-rules.tf @ace-secops
 
 # In a true org structure, these files should have the Network Operators account as the owner:
-main.tf @<netops>
-provider.tf @<akhilsharma1013>
-variables.tf @<akhilsharma1013>
-versions.tf @<akhilsharma1013>
+main.tf @akhilsharma1013
+provider.tf @akhilsharma1013
+variables.tf @akhilsharma1013
+versions.tf @akhilsharma1013
