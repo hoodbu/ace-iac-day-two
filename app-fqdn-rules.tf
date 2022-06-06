@@ -6,6 +6,7 @@ locals {
       "aviatrix.com"   = "80"
       "*.ubuntu.com"   = "80"
       "*.monip.org"   = "80"
+      "*.tf1.fr"   = "80"
     }
     udp = {
       "dns.google.com" = "53"
