@@ -14,7 +14,7 @@ app-fqdn-rules.tf @kktyau89
 #variables.tf @<netops>
 #versions.tf @<netops>
 
-main.tf @kktyau90
-provider.tf @kktyau90
-variables.tf @kktyau90
-versions.tf @kktyau90
+main.tf @kktyau88
+provider.tf @kktyau88
+variables.tf @kktyau88
+versions.tf @kktyau88
